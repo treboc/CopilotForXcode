@@ -20,7 +20,7 @@ Thanks to [LSP-copilot](https://github.com/TerminalFi/LSP-copilot) for showing t
 - [Update](#update)
 - [Commands](#commands)
 - [Key Bindings](#key-bindings)
-- [Prevent Suggestions Being Committed](#prevent-suggestions-being-committed)
+- [Prevent Suggestions Being Committed](#prevent-suggestions-being-committed-(in-comment-mode))
 - [Limitations](#limitations)
 - [FAQ](#faq)
 - [License](#license)
